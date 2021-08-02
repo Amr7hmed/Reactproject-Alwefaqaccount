@@ -1,0 +1,56 @@
+.attendance h1 {
+  text-align: center;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.attendance ul {
+  list-style: none;
+  columns: 2;
+  margin: 0 auto;
+  padding-left: 0 !important;
+}
+.attendance ul li {
+  margin: 20px 0 !important;
+  cursor: pointer;
+}
+.attendance ul li:hover {
+  background-color: rgb(230, 230, 230);
+}
+.attendance .number {
+  font-weight: bold;
+  font-size: 25px;
+  margin-right: 15px;
+}
+
+.attendance li > div {
+  display: inline-grid;
+  min-width: 70%;
+}
+
+.attendance .day_it {
+  width: 100%;
+  border-bottom: solid #000 1px;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.attendance .day_en {
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
+  color: #808080;
+}
+
+li.sun,
+li.sun > div > .day_en {
+  color: red;
+}
+/*======================time*/
+.time {
+  font-size: 13px;
+  font-weight: bold;
+  color: #e38710;
+  margin-left: 10px;
+}

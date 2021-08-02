@@ -1,0 +1,75 @@
+/*=======================Component control====================*/
+
+/*======================Component Login======================*/
+.logintabel {
+  text-align: center;
+  background-color: white;
+  width: 50%;
+  margin: 20px auto;
+  border: 2px solid rgb(230, 227, 227);
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px 2px rgba(88, 103, 221, 0.19) !important;
+}
+/*==============login header=============*/
+.login-header {
+  background-color: #6c11b1;
+  width: 100%;
+  height: 50%;
+  height: auto;
+  color: white;
+  border-radius: 10px 10px 0 0;
+  font-family: Poppins;
+  padding: 40px;
+  box-shadow: 0px 5px 10px 2px rgba(88, 103, 221, 0.19) !important;
+}
+.loginlogo img {
+  width: 100%;
+}
+.login-header-text h4 {
+  font-weight: 500;
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+.login-header-text q {
+  font-size: 14px;
+  font-family: cursive;
+}
+.login-header-text p {
+  margin-top: 15px;
+  font-family: cursive;
+}
+/*==============login body=============*/
+.loginbody {
+  background-color: white;
+  padding: 40px;
+  border-radius: 0 0 10px 10px;
+}
+.loginbody h4 {
+  margin: 20px 0;
+}
+.accountimg {
+  margin: auto;
+}
+.loginbody .formlogn .form-check {
+  text-align: left;
+}
+.butonlogin {
+  display: block;
+  margin: 15px 0;
+  background-color: #6c11b1 !important;
+  color: white !important;
+  width: 150px;
+  border-radius: 75px !important;
+  box-shadow: 1px 5px 10px 2px rgba(88, 103, 221, 0.19) !important;
+}
+@media screen and (min-width: 401px) and (max-width: 991px) {
+  .logintabel {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 400px) {
+  .logintabel {
+    width: 90%;
+  }
+}

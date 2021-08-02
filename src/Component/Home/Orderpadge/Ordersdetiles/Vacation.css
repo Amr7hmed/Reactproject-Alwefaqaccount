@@ -1,0 +1,71 @@
+/*=========================vacation===============*/
+.vacation {
+  position: relative;
+}
+
+/*==========================Addvacation==================*/
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+}
+.modal-main {
+  position: fixed;
+  background: white;
+  width: 80%;
+  height: auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 50px 120px;
+}
+.display-block {
+  display: block !important;
+}
+
+.display-none {
+  display: none !important;
+}
+.modal-main .btn-danger {
+  position: absolute;
+  top: -11px;
+  right: -25px;
+  font-size: 16px;
+  border-radius: 50%;
+  font-weight: bold;
+}
+/*======================notification===========*/
+.notification .nav-link {
+  color: #ff9307 !important;
+  background-color: #424040 !important;
+  overflow: hidden;
+}
+.notification .nav-link .notificationnifigtion {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: #f45d5d;
+  line-height: 19px;
+  color: black;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 10px;
+}
+.notification .nav-link.active {
+  font-weight: bold;
+}
+.vacation.notification th,
+.vacation.notification td {
+  font-size: 13px;
+}
+.notification th {
+  text-align: center !important;
+}
+.notification td button:first-child {
+  margin-right: 10px;
+}

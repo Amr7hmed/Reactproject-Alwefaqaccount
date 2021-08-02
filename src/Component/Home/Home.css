@@ -1,0 +1,65 @@
+/*=============================Navbar=============*/
+.navbar-brand {
+  height: 60px;
+  line-height: 60px;
+}
+.navbarlogn img {
+  width: 70px;
+  height: 50px;
+  margin: 5px 30px 5px 0;
+}
+.navbarlogn p {
+  margin: 15px 0;
+  font-weight: bold;
+  font-size: 18px;
+  color: #ff9307;
+}
+.navbarlogn .position-relative {
+  width: 25px;
+  height: 25px;
+  top: 15%;
+  left: 5px;
+}
+.navbarlogn .position-relative img {
+  width: 20px;
+  height: 20px;
+  margin: 10px 0;
+  filter: invert(70%) sepia(35%) saturate(5480%) hue-rotate(355deg)
+    brightness(101%) contrast(102%);
+}
+.navbarlogn .position-relative .position-absolute {
+  border-radius: 50% !important;
+  top: 12px !important;
+  left: 24px !important;
+}
+/*=============================home*/
+.detiles .nav-link {
+  background-color: #b6b6b62e !important;
+  border: 1px solid;
+  border-bottom: none;
+  border-color: #c4c4c4;
+  font-weight: bold;
+  font-size: 13px;
+}
+.nav-link.active {
+  box-shadow: -7px -3px 13px -2px rgba(88, 103, 221, 0.19) !important;
+  background-color: white !important;
+}
+/*==========================Accounts*/
+.tab-content,
+.user {
+  background-color: white;
+  height: auto;
+  padding: 30px 0;
+  box-shadow: 0px 2px 10px 2px rgba(88, 103, 221, 0.19) !important;
+}
+.user .card {
+  width: 50%;
+  border: none;
+}
+
+.user .card-img-top {
+  width: 200px;
+  height: 200px;
+  box-shadow: 0px 2px 10px 2px rgba(88, 103, 221, 0.19) !important;
+}

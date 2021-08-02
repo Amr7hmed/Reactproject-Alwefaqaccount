@@ -1,0 +1,32 @@
+/*========================icon*/
+.icon {
+  color: #353535;
+  display: inline-block;
+  font-size: 13px;
+  font-weight: bold;
+}
+.icon img {
+  filter: invert(14%) sepia(4%) saturate(0%) hue-rotate(1deg) brightness(97%)
+    contrast(84%);
+  display: inline-block;
+  width: 20px;
+  height: 30px;
+  margin: 0 5px;
+}
+.icon.active {
+  color: #ff9307 !important;
+}
+.icon.active img {
+  filter: invert(74%) sepia(49%) saturate(4971%) hue-rotate(354deg)
+    brightness(100%) contrast(103%);
+}
+/*=================================Vacation=============*/
+.vacation h2 {
+  color: #ff9307 !important;
+  font-size: 16px;
+  font-weight: bold;
+  border-right: 1px solid;
+  display: inline;
+  padding-right: 25px;
+  border-color: #c3c3c4;
+}
