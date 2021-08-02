@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Reactproject-Alwefaqaccount/static/css/main.c8234514.chunk.css",
+    "main.js": "/Reactproject-Alwefaqaccount/static/js/main.33aadf62.chunk.js",
+    "main.js.map": "/Reactproject-Alwefaqaccount/static/js/main.33aadf62.chunk.js.map",
+    "runtime-main.js": "/Reactproject-Alwefaqaccount/static/js/runtime-main.b2ab9292.js",
+    "runtime-main.js.map": "/Reactproject-Alwefaqaccount/static/js/runtime-main.b2ab9292.js.map",
+    "static/css/2.455652b6.chunk.css": "/Reactproject-Alwefaqaccount/static/css/2.455652b6.chunk.css",
+    "static/js/2.6e0c8db4.chunk.js": "/Reactproject-Alwefaqaccount/static/js/2.6e0c8db4.chunk.js",
+    "static/js/2.6e0c8db4.chunk.js.map": "/Reactproject-Alwefaqaccount/static/js/2.6e0c8db4.chunk.js.map",
+    "static/js/3.a9ac460a.chunk.js": "/Reactproject-Alwefaqaccount/static/js/3.a9ac460a.chunk.js",
+    "static/js/3.a9ac460a.chunk.js.map": "/Reactproject-Alwefaqaccount/static/js/3.a9ac460a.chunk.js.map",
+    "index.html": "/Reactproject-Alwefaqaccount/index.html",
+    "static/css/2.455652b6.chunk.css.map": "/Reactproject-Alwefaqaccount/static/css/2.455652b6.chunk.css.map",
+    "static/css/main.c8234514.chunk.css.map": "/Reactproject-Alwefaqaccount/static/css/main.c8234514.chunk.css.map",
+    "static/js/2.6e0c8db4.chunk.js.LICENSE.txt": "/Reactproject-Alwefaqaccount/static/js/2.6e0c8db4.chunk.js.LICENSE.txt",
+    "static/media/Alwefaqlogo.4c92196c.png": "/Reactproject-Alwefaqaccount/static/media/Alwefaqlogo.4c92196c.png",
+    "static/media/Attendanceicon.a6c90daf.svg": "/Reactproject-Alwefaqaccount/static/media/Attendanceicon.a6c90daf.svg",
+    "static/media/assignments.fe7f6d6a.svg": "/Reactproject-Alwefaqaccount/static/media/assignments.fe7f6d6a.svg",
+    "static/media/bell-solid.43ca01a5.svg": "/Reactproject-Alwefaqaccount/static/media/bell-solid.43ca01a5.svg",
+    "static/media/dashboard.a2602c32.svg": "/Reactproject-Alwefaqaccount/static/media/dashboard.a2602c32.svg",
+    "static/media/logo_rafeeq.09654480.svg": "/Reactproject-Alwefaqaccount/static/media/logo_rafeeq.09654480.svg",
+    "static/media/orders.90afad0b.svg": "/Reactproject-Alwefaqaccount/static/media/orders.90afad0b.svg",
+    "static/media/permissions.522d282a.svg": "/Reactproject-Alwefaqaccount/static/media/permissions.522d282a.svg",
+    "static/media/vacation.659c5977.svg": "/Reactproject-Alwefaqaccount/static/media/vacation.659c5977.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2ab9292.js",
+    "static/css/2.455652b6.chunk.css",
+    "static/js/2.6e0c8db4.chunk.js",
+    "static/css/main.c8234514.chunk.css",
+    "static/js/main.33aadf62.chunk.js"
+  ]
+}
